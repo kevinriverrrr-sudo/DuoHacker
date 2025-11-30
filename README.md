@@ -32,6 +32,7 @@
 - [🌟 Premium Features Unlocked](#-premium-features-unlocked)
 - [🛡️ Safety & Security](#️-safety--security)
 - [📥 Installation Guide](#-installation-guide)
+- [🎥 Video Tutorials](#-video-tutorials)
 - [🎮 Usage Guide](#-usage-guide)
 - [⚙️ Settings & Customization](#️-settings--customization)
 - [📊 Statistics & Analytics](#-statistics--analytics)
@@ -505,13 +506,70 @@
 
 ---
 
-### 🎥 **Video Tutorial**
+## 🎥 Video Tutorials
+
+### 📺 **Complete Setup & Usage Guides**
 
 <div align="center">
 
-[![Installation Tutorial](https://img.youtube.com/vi/YOUTUBE_ID/maxresdefault.jpg)](https://youtube.com/watch?v=YOUTUBE_ID)
+#### 🎬 Tutorial #1: Installation & Basic Setup (5:42)
 
-*Click to watch full installation guide*
+[![How To Use DuoHacker Bot](https://img.youtube.com/vi/9HNo79yqr9I/maxresdefault.jpg)](https://www.youtube.com/watch?v=9HNo79yqr9I)
+
+**📌 What you'll learn:**
+- ✅ Complete installation process
+- ✅ Browser setup (Desktop & Mobile)
+- ✅ Tampermonkey/ViolentMonkey installation
+- ✅ Script activation and configuration
+- ✅ First-time farming setup
+- ✅ Account management with JWT tokens
+
+[▶️ Watch Tutorial](https://www.youtube.com/watch?v=9HNo79yqr9I)
+
+---
+
+#### 🎬 Tutorial #2: Advanced Features & Tips
+
+[![DuoHacker Advanced Guide](https://img.youtube.com/vi/8fiJ7LiQxEk/maxresdefault.jpg)](https://www.youtube.com/watch?v=8fiJ7LiQxEk)
+
+**📌 What you'll learn:**
+- ✅ Advanced farming strategies
+- ✅ Premium features unlock (Max & Super)
+- ✅ Multi-account management
+- ✅ Safety settings optimization
+- ✅ Troubleshooting common issues
+- ✅ Pro tips for maximum XP/Gems
+
+[▶️ Watch Tutorial](https://www.youtube.com/watch?v=8fiJ7LiQxEk)
+
+---
+
+### 🌐 **Additional Resources**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h4>📖 Documentation</h4>
+<a href="#-usage-guide">Read Full Guide →</a>
+</td>
+<td align="center" width="33%">
+<h4>💬 Discord Support</h4>
+<a href="https://discord.gg/duohacker">Join Community →</a>
+</td>
+<td align="center" width="33%">
+<h4>🌐 Official Website</h4>
+<a href="https://twisk.fun">Visit Site →</a>
+</td>
+</tr>
+</table>
+
+### 💡 **Quick Tips from Videos**
+
+- 🔥 **For Mobile Users**: Use your browser (not the Duolingo app) and install ViolentMonkey
+- 🛡️ **Safety First**: Always start with Safe Mode until you understand the system
+- 💎 **JWT Tokens**: Save your tokens securely for multi-account management
+- ⏰ **Timing**: Farm during off-peak hours for better safety
+- 📊 **Monitor Stats**: Watch the dashboard to track your progress
 
 </div>
 
@@ -1130,7 +1188,7 @@ SOFTWARE.
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/duohacker)
 [![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-Install-orange?style=for-the-badge)](https://greasyfork.org/en/scripts/551444-duolingo-duohacker)
 [![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/kevinriverrrr-sudo/DuoHacker)
-[![Website](https://img.shields.io/badge/Website-Visit-00ADD8?style=for-the-badge)](https://irylisvps.vercel.app)
+[![Website](https://img.shields.io/badge/Website-Visit-00ADD8?style=for-the-badge)](https://twisk.fun)
 
 </div>
 
